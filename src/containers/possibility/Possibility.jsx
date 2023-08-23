@@ -9,17 +9,17 @@ const Possibility = () => {
         <img src={possibilityImage} alt="Possibility" />
       </div>
       <div className="gpt3__possibility-content">
-        <h4>Request Early Access to Get Started</h4>
+        <h4>Minta Akses Awal untuk Memulai</h4>
         <h1 className="gradient__text">
-          The possibilities are beyond your imagination
+        Kemungkinannya berada di luar imajinasi Anda
         </h1>
         <p>
-          Yet bed any for travelling assistance indulgence unpleasing. Not
-          thoughts all exercise blessing. Indulgence way everything joy
-          alteration boisterous the attachment. Party we years to order allow
-          asked of.
+        Namun tidur apa pun untuk kesenangan bantuan perjalanan tidak menyenangkan. Bukan
+          pikiran semua latihan berkat. Pemanjaan berarti segala kegembiraan
+          perubahan riuh keterikatan. Pesta yang kami tahun untuk memesan izinkan
+          diminta dari.
         </p>
-        <h4>Request Early Access to Get Started</h4>
+        <h4>Minta Akses Awal untuk Memulai</h4>
       </div>
     </div>
   );
