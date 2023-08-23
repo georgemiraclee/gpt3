@@ -4,8 +4,8 @@ import "./whatGPT3.css";
 
 const featuresContent = [
   {
-    title: "What is GPT-3",
-    text: "We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by.",
+    title: "Apa itu GPT-3",
+    text: "GPT-3 adalah platform pembelajaran mesin (machine learning) yang memungkinkan pengembang untuk melatih dan menerapkan model AI"
   },
   {
     title: "Chatbots",
@@ -29,9 +29,9 @@ const WhatGPT3 = () => {
       </div>
       <div className="gpt3__whatgpt3-heading">
         <h1 className="gradient__text">
-          The possibilities are beyond your imagination
+        Kemungkinannya berada di luar imajinasi Anda
         </h1>
-        <p>Explore The Library</p>
+        <p>Lihat Selengkapnya</p>
       </div>
       <div className="gpt3__whatgpt3-container">
         <Feature title={featuresContent[1].title} text={featuresContent[1].text} />

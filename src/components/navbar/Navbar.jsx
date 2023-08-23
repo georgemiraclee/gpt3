@@ -11,13 +11,13 @@ const Menu = () => (
       <a href="#home">Home</a>
     </p>
     <p>
-      <a href="#wgpt3">What is GPT?</a>
+      <a href="#wgpt3">Apa itu GPT?</a>
     </p>
     <p>
       <a href="#possibility">Open AI</a>
     </p>
     <p>
-      <a href="#features">Case Studies</a>
+      <a href="#features">Study Case</a>
     </p>
     <p>
       <a href="#blog">Library</a>
@@ -39,8 +39,8 @@ const Navbar = () => {
         </div>
       </div>
       <div className="gpt3__navbar-sign">
-        <p>Sign in</p>
-        <button type="button">Sign up</button>
+        <p>Daftar</p>
+        <button type="button">Masuk</button>
       </div>
       <div className="gpt3__navbar-menu">
         {toggleMenu ? (
@@ -62,8 +62,8 @@ const Navbar = () => {
               <Menu />
 
               <div className="gpt3__navbar-menu_container-links-sign">
-                <p>Sign in</p>
-                <button type="button">Sign up</button>
+                <p>Masuk</p>
+                <button type="button">Daftar</button>
               </div>
             </div>
           </div>
